@@ -1,7 +1,7 @@
 ---
 title: "On Gita"
 date: 2020-07-13T10:33:50+05:30
-draft: true
+draft: false
 categories: ["Books"]
 ---
 

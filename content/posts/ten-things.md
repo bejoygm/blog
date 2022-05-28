@@ -1,7 +1,7 @@
 ---
 title: "Ten Things"
 date: 2020-10-27T15:56:03+05:30
-draft: true
+draft: false
 categories: ["Life"]
 ---
 
