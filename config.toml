@@ -1,0 +1,17 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Bejoy Mathew'
+theme = "yinyang"
+
+[params]
+headTitle = "Bejoy's blog"
+Description = "Watch the stars, and see yourself running with them - Marcus Aurelius"
+mainSections = ["posts"]
+favicon = "/favicon.ico"
+
+[[params.socials]]
+name = "About Me"
+link = "/about/me"
+[[params.socials]]
+name = "Github"
+link = "https://github.com/bejoygm"
