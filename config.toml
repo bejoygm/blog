@@ -8,7 +8,7 @@ headTitle = "Bejoy's blog"
 Description = "Watch the stars, and see yourself running with them - Marcus Aurelius"
 mainSections = ["posts"]
 favicon = "/favicon.ico"
-extraHead = "<script defer data-domain="bejoygm.com" src="https://plausible.io/js/plausible.js"></script>"
+extraHead = '<script defer data-domain="bejoygm.com" src="https://plausible.io/js/plausible.js"></script>'
 
 [[params.socials]]
 name = "About Me"
