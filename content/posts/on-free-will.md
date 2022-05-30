@@ -45,7 +45,7 @@ You can tell others what social causes you back, like racism, environmentalism a
 
 If by now you have realized that you have no free will, the immediate reaction is "then what's the point of all this"? Why even work towards change if you cannot will to change? The answer to that is as Sapolsky says "..Change can happen with a framework of mechanistic neurobiology", but it happens with things that are outside your control.
 
-Let me explain. Suppose you go for a run tomorrow for the first time in your life. Two things can happen, you love it or hate it. If you ended up loving it, you don't really know why you did. Two people with different dopamine pathways can perceive the same activity in different ways. The likelihood of you continuing your runs on futures dates highly depends on how you felt on your first run. "Feeling" is not really in your control. The feeling of wanting to continue a "feeling" is also not in your control.
+Let me explain. Suppose you go for a run tomorrow for the first time in your life. Two things can happen, you love it or hate it. If you ended up loving it, you don't really know why you did. Two people with different dopamine pathways can perceive the same activity in different ways. The likelihood of you continuing your runs on future dates highly depends on how you felt on your first run. "Feeling" is not really in your control. The feeling of wanting to continue a "feeling" is also not in your control.
 
 ## Act 3: The Rising Sun
 
