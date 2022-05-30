@@ -8,6 +8,15 @@ headTitle = "Bejoy's blog"
 Description = "Watch the stars, and see yourself running with them - Marcus Aurelius"
 mainSections = ["posts"]
 favicon = "/favicon.ico"
+extraHead = """<script async src="https://www.googletagmanager.com/gtag/js?id=G-X00EYD660E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X00EYD660E');
+</script>
+"""
 
 [[params.socials]]
 name = "About Me"
