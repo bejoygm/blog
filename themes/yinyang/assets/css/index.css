@@ -275,3 +275,8 @@ a:hover {
     display: none;
   }
 }
+
+/* comments */
+.utterances {
+  margin-left: 0;
+}
